@@ -1,0 +1,38 @@
+.header{
+    background: #874c9f;
+}
+
+
+.logo img{
+    width:  30%;
+    height: 100%;
+}
+.loginmenu{
+    justify-content: space-evenly;
+    text-decoration: none;
+    padding: 30px;
+    padding-left: 322px;
+    /* font-size: 30px; */
+}
+a {
+    color: white;
+    text-decoration: none;
+    font-size: 30px;
+    padding-right: 25px;
+    text-transform:  uppercase;
+  }
+  a:hover{
+      color: rgba(0, 255, 255, 0.788);
+      text-decoration: none;
+  }
+  .heading{
+    text-align:  center;
+    /* padding: 38px; */
+}
+  .heading p{
+    color: #e24864;
+    text-transform:  uppercase;
+    font-size: 30px;
+    padding-top:  20px;
+}
+  .form-section{}
